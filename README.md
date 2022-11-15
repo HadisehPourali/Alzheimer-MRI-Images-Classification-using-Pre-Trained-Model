@@ -19,6 +19,6 @@ Non Demented
 
 Very Mild Demented
 
-Dataset is available in [Kaggle: Augmented Alzheimer MRI Dataset V2](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2)
+Dataset is available on [Kaggle: Augmented Alzheimer MRI Dataset V2](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2)
 
 **In this Repository**, a convolutional neural network (CNN)-based Alzheimer MRI images classification algorithm is developed using **ResNet152V2** architecture, to detect **"Mild Demented"**, **"Moderate Demented"**, **"Non Demented"** and **"Very Mild Demented"** in patient's MRI.
